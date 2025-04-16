@@ -30,7 +30,7 @@ fi
 API_TOKEN="${API_TOKEN}"
 PROJECT_ID="${PROJECT_ID}"
 SUITE_ID="${SUITE_ID}"
-BASE_URL="${BASE_URL:-https://stagescr.getscandium.com}"
+BASE_URL="${BASE_URL:-https://scr.getscandium.com}"
 BROWSER="${BROWSER:-chrome}"
 SCREENSHOT="${SCREENSHOT:-true}"
 
